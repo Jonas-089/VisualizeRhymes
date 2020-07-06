@@ -1,0 +1,5 @@
+cmudict==0.4.4
+pronouncing==0.2.0
+Pyphen==0.9.5
+PyQt5==5.15.0
+PyQt5-sip==12.8.0
