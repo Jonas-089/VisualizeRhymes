@@ -17,7 +17,6 @@ Here is a more complicated example using the opening lines of Eminem's Lose Your
 
 ![](https://github.com/TipsForMyRepo/VisualizeRhymes/blob/master/Demo%20Images/Eminem.png)
 
-
 ## Installation
 You can just clone this repository and then run 
 ```
